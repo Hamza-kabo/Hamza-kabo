@@ -16,13 +16,14 @@ Open to junior roles in RTL design, design verification, systems administration 
 | Repository | What's in it |
 |---|---|
 | [DevOps-Tasks](https://github.com/Hamza-kabo/DevOps-Tasks) | Tasks from my DevOps internship (SIWES) |
-| [3mtt-simple-flask-app](https://github.com/Hamza-kabo/3mtt-simple-flask-app) | 3MTT DevOps capstone: a Flask web application |
+| [3mtt-simple-flask-app](https://github.com/Hamza-kabo/3mtt-simple-flask-app) | 3MTT DevOps capstone: a Flask app with automated tests and a GitHub Actions workflow |
 | [locker](https://github.com/Hamza-kabo/locker) | MVP platform for students to reserve lockers in academic institutions |
 
 ## Tools
 
-- **Chip design:** Verilog HDL, SystemVerilog, QuestaSim, Synopsys VCS, Icarus Verilog, Verdi, GTKWave
-- **Systems and DevOps:** Python, HTML, JavaScript, GitHub Actions, CI/CD, Docker
+- **Languages:** Verilog, SystemVerilog, Python, JavaScript, HTML
+- **Chip design:** QuestaSim, Synopsys VCS, Icarus Verilog, Verdi, GTKWave
+- **Systems and DevOps:** Linux, Windows Server (RDP), Git/GitHub, GitHub Actions, CI/CD, Docker
 
 ## Contact
 
