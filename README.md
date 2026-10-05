@@ -1,6 +1,6 @@
 # Hi, I'm Hamza
 
-I work where chip design meets systems administration and DevOps. I'm a software engineering graduate who has completed the NBTE–ChipLab Digital VLSI Design Programme in Abuja, Nigeria, where I trained in RTL design with Verilog HDL and design verification with SystemVerilog.
+I work at the intersection of chip design, systems administration, and DevOps. I'm a software engineering graduate who has completed the NBTE–ChipLab Digital VLSI Design Programme in Abuja, Nigeria, where I trained in RTL design with Verilog HDL and design verification with SystemVerilog.
 
 Open to junior roles in RTL design, design verification, systems administration and DevOps.
 
@@ -11,7 +11,7 @@ Open to junior roles in RTL design, design verification, systems administration 
 | [Verilog-HDL-Design](https://github.com/Hamza-kabo/Verilog-HDL-Design) | Combinational and sequential circuits in all four modelling styles (gate-level, dataflow, structural, behavioral), each with a self-written testbench |
 | [SystemVerilog-Verification](https://github.com/Hamza-kabo/SystemVerilog-Verification) | Class-based layered testbenches for an AND gate and a 2-to-1 mux, plus constrained randomization, assertions and functional coverage |
 
-## Systems administration and DevOps
+## Systems and DevOps
 
 | Repository | What's in it |
 |---|---|
@@ -22,7 +22,7 @@ Open to junior roles in RTL design, design verification, systems administration 
 ## Tools
 
 - **Chip design:** Verilog HDL, SystemVerilog, QuestaSim, Synopsys VCS, Icarus Verilog, Verdi, GTKWave
-- **Systems and DevOps:** Linux, Windows Server, Git/GitHub, Docker, CI/CD
+- **Systems and DevOps:** Python, HTML, JavaScript, GitHub Actions, CI/CD, Docker
 
 ## Contact
 
